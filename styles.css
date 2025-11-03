@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.flex {
+    border: 1px solid red;
+    display: flex;
+}
+
+.cuadro_derecha {
+    border: 1px solid red;
+    display: flex;
+}
